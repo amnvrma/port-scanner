@@ -38,9 +38,3 @@ for port in range(start_port, end_port+1):
 
 end_time=time.time()
 print(f"time elapsed: {end_time-start_time}")
-	
-
-
-
-
-
